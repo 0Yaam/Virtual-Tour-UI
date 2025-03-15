@@ -6,7 +6,7 @@
    
 Virtual-Tour-UI<br>
 ├── image   
-├── css        
-├── js           
+├── style.css    
+├── app.js           
 ├── index.html     
 ├── README.md      
